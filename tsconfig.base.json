@@ -1,0 +1,17 @@
+{
+    "include": [],
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "ESNext",
+        "moduleResolution": "Node",
+        "esModuleInterop": true,
+        "isolatedModules": true,
+        "noEmitOnError": true,
+        "resolveJsonModule": true,
+        "strict": true,
+        "noImplicitAny": false,
+        "strictNullChecks": false,
+        "stripInternal": true,
+        "suppressImplicitAnyIndexErrors": true,
+    }
+}
