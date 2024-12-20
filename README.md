@@ -1,6 +1,6 @@
-# monorepo-microservice-typescript
+# monorepo-mts
 
-This is a simple monorepo template with some specific design goals:
+This is a simple monorepo template with some specific design purpose:
 
 * Latest TypeScript version
 * Fast, incremental dependency updates and builds
@@ -32,7 +32,7 @@ corepack prepare pnpm@7.8.0 --activate
 
 ```shell
 git clone https://github.com/docongminh/monorepo-microservice-typescript.git
-cd monorepo-microservice-typescript
+cd monorepo-ts
 pnpm install
 ```
 
