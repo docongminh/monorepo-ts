@@ -53,6 +53,3 @@ Run this to build and watch workspace packages that use `tsc` for compilation.
 ```shell
 pnpm watch
 ```
-
-## Ref
-[Jordansexton](https://github.com/jordansexton)
